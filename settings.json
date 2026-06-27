@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "admin",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Loading2026.aternos.me",
