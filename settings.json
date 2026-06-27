@@ -7,47 +7,22 @@
   },
   "server": {
     "ip": "Loading2026.aternos.me",
-    "port": 12707,
-    "try-creative": false
-  },
-  "position": {
-    "enabled": false
+    "port": 12707
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
-    },
-    "anti-afk": {
-      "enabled": true,
-      "sneak": false
-    },
-    "chat-messages": {
       "enabled": false
     },
-    "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 10000,
+    "auto-reconnect-delay": 15000,
     "max-reconnect-delay": 60000
   },
   "movement": {
     "enabled": false
   },
   "modules": {
-    "avoidMobs": true,
     "combat": false,
-    "beds": false,
     "chat": false,
-    "console-commands": false
-  },
-  "combat": {
-    "attack-mobs": false,
-    "auto-eat": true
-  },
-  "discord": {
-    "enabled": false
-  },
-  "chat": {
-    "respond": false
+    "avoidMobs": true
   }
 }
